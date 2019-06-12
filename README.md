@@ -8,3 +8,6 @@ BaiduDrive Download: https://pan.baidu.com/s/1eRylM-jMgjYL6cyU6qQd8g
 ```
 python download-imdb.py
 ```
+```
+python download.py --input_file IMDb-Face.csv --output_dir Img --worker_num 32
+```
